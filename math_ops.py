@@ -5,7 +5,7 @@ def divide_numbers(a, b):
     if b == 0:
         print("Cannot divide by 0")
     else:
-        return a / b  # Potential division by zero error
+        return a / b  
 
 if __name__ == "__main__":
     x = 10
