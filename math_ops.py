@@ -2,7 +2,7 @@
 
 def divide_numbers(a, b):
     """Divides two numbers and returns the result."""
-    return a / b  # Potential division by zero error
+    return a / b  
 
 
 def ultimate_function():
